@@ -1748,9 +1748,7 @@ const styles = StyleSheet.create({
   touch: {
     height: "100%",
     flex: 1,
-    // width: 90,
-    // borderWidth:2,
-    // borderColor:'blue',
+
     backgroundColor: "#F5F5F5",
     alignSelf: "center",
     // borderWidth:2,
@@ -1767,7 +1765,7 @@ const styles = StyleSheet.create({
     marginTop: 3
   },
 
-  flightwholeView: { flexDirection: "row", marginBottom:10 },
+  flightwholeView: { flexDirection: "row", marginBottom:12 },
 
   depIsb: {
     width: 150
